@@ -1,0 +1,2 @@
+# ericdang.com
+my blog
